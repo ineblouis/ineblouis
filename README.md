@@ -1,6 +1,5 @@
   <a href="" >
-   <img src="https://lanyard.kyrie25.me/api/1070262933206077520?waveColor=7490AC&dleMessage=to profit, you have to sin
-So we hesitate then we get pissed off, so we meditate, to exist&waveSpotifyColor=B48EF7&gradient=81A1C1"/>
+   <img src="https://lanyard.kyrie25.me/api/1070262933206077520?waveColor=7490AC&waveSpotifyColor=B48EF7&gradient=81A1C1"/>
   </a>
 
 ## 🏆 GitHub Trophies
