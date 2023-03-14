@@ -1,9 +1,3 @@
-
-
-<div align="center" dir="auto">
-   <img src="https://lanyard.kyrie25.me/api/1070262933206077520?waveColor=7490AC&bg=2E3440&waveSpotifyColor=B48EF7&gradient=81A1C1" />
- </div>
-
 ## 🏆 GitHub Trophies
 <p align="center" dir="auto">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ineblouis&show_icons=true&theme=nord" />
