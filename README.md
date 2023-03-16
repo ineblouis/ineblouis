@@ -1,5 +1,5 @@
 
-<img align="right" width="400" src="https://lanyard.kyrie25.me/api/1070262933206077520">
+<img align="right" width="400" src="https://lanyard.kyrie25.me/api/1070262933206077520?theme=discord">
 
 - 👯 I’m looking to collaborate on **Cyber Security Projects**
 - 👨‍💻 All of my projects are available at [https://codegrills.in](https://codegrills.in)
