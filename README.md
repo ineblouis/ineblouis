@@ -1,7 +1,10 @@
 
 <img align="right" width="400" src="https://lanyard.kyrie25.me/api/1070262933206077520?theme=discord">
-
-
+x
+x
+x
+x
+x
 
 ## 🏆 GitHub Trophies
 <p align="center" dir="auto">
