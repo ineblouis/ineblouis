@@ -9,7 +9,10 @@
 - 📫 How to reach me **codegrills@gmail.com**
 - ⚡ Fun fact **I Think i am Funny**
 
-# 👨‍💻 Programming and Markup Languages
+<details> 
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+
+  # 👨‍💻 Programming and Markup Languages
 
   <p align="center" dir="auto">
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
@@ -67,7 +70,7 @@
       <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
   </p>
 
-# 🗄️ Databases and Cloud Hosting
+  # 🗄️ Databases and Cloud Hosting
 
   <p align="center" dir="auto">
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -83,7 +86,7 @@
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   </p>
 
-  <h3>💻 Software and Tools</h3>
+  # 💻 Software and Tools
 
   <p align="center" dir="auto">
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
@@ -109,7 +112,7 @@
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-
+</details>
 
 ## 🏆 GitHub Trophies
 <p align="center" dir="auto">
