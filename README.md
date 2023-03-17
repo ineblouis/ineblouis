@@ -128,13 +128,15 @@
 </p>
 
 <details>
- <summary><h3><img width="16" height="16" src="https://em-content.zobj.net/thumbs/120/apple/325/card-index-dividers_1f5c2-fe0f.png"/> Highlight Projects</h3></summary>
+ <summary><h3><img width="16" height="16" src="https://em-content.zobj.net/thumbs/120/apple/325/label_1f3f7-fe0f.png"/> Highlight Projects</h3></summary>
 </details>
   
 <p align="center" dir="auto">
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"><img alt="Snake   animation" src="https://github.com/mikyll/mikyll/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"><img           alt="Snake animation" src="https://github.com/mikyll/mikyll/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" style="max-width: 100%;"></a>
 </p>
+
+#
 
 <details>
  <summary><h3><img width="16" height="16" src="https://em-content.zobj.net/thumbs/120/apple/325/card-index-dividers_1f5c2-fe0f.png"/> Highlight Projects</h3></summary>
