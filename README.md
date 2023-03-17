@@ -1,7 +1,7 @@
 <img align="right" width="400" src="https://lanyard.kyrie25.me/api/1070262933206077520?theme=discord">
 
 <details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h2><img width="16" height="16" src="https://em-content.zobj.net/thumbs/120/apple/325/hammer-and-wrench_1f6e0-fe0f.png"/> My Favorite Tools</h2></summary>
 
   # 👨‍💻 Programming and Markup Languages
 
@@ -106,7 +106,7 @@
 </details>
 
 <details>
- <summary><h3>🏆 GitHub Trophies</h3></summary>
+ <summary><h3><img width="16" height="16" src="https://em-content.zobj.net/thumbs/120/apple/325/trophy_1f3c6.png"/> GitHub Trophies</h3></summary>
 
  <p align="center" dir="auto">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ineblouis&show_icons=true&theme=discord" />
@@ -116,7 +116,7 @@
 </details>
   
 <details>
- <summary><h3>🗂️ Highlight Projects</h3></summary>
+ <summary><h3><img width="16" height="16" src="https://em-content.zobj.net/thumbs/120/apple/325/card-index-dividers_1f5c2-fe0f.png"/> Highlight Projects</h3></summary>
 </details>
   
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"><img alt="Snake   animation" src="https://github.com/mikyll/mikyll/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only" style="max-width: 100%;"></a>
