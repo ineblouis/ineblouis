@@ -126,6 +126,10 @@
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=ineblouis&show_icons=true&theme=discord" />
 <img height="180" src="https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=discord&column=4" />
 </p>
+
+<details>
+ <summary><h3><img width="16" height="16" src="https://em-content.zobj.net/thumbs/120/apple/325/card-index-dividers_1f5c2-fe0f.png"/> Highlight Projects</h3></summary>
+</details>
   
 <p align="center" dir="auto">
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"><img alt="Snake   animation" src="https://github.com/mikyll/mikyll/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only" style="max-width: 100%;"></a>
