@@ -1,5 +1,20 @@
 <img align="right" width="400" src="https://lanyard.kyrie25.me/api/1070262933206077520?theme=discord">
 
+👯 I’m looking to collaborate on Cyber Security Projects
+
+
+👨‍💻 All of my projects are available at https://codegrills.in
+
+📝 I regularly write articles on blog.codegrills.in
+
+💬 Ask me about Cyber Security,Ethical Hacking, Bug Hunting
+
+📫 How to reach me codegrills@gmail.com
+
+⚡ Fun fact I Think i am Funny
+
+#
+
 <details> 
   <summary><h2><img width="16" height="16" src="https://em-content.zobj.net/thumbs/120/apple/325/hammer-and-wrench_1f6e0-fe0f.png"/> My Favorite Tools</h2></summary>
 
