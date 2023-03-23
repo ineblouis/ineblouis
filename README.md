@@ -122,8 +122,8 @@
 <h2><img width="16" height="16" src="https://em-content.zobj.net/thumbs/120/apple/325/trophy_1f3c6.png"/> GitHub Trophies</h2>
 
 <p align="center" dir="auto">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ineblouis&show_icons=true&theme=discord" />
-<img height="180" src="https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=discord&column=4" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ineblouis&show_icons=true&theme=black" />
+<img height="180" src="https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=black&column=4" />
 </p>
 
 <details>
