@@ -2,14 +2,13 @@
 
 👯 I’m looking to collaborate on Cyber Security Projects
 
-
-👨‍💻 All of my projects are available at https://codegrills.in
+👨‍💻 All of my projects are available at 
 
 📝 I regularly write articles on blog.codegrills.in
 
 💬 Ask me about Cyber Security,Ethical Hacking, Bug Hunting
 
-📫 How to reach me codegrills@gmail.com
+📫 How to reach me 
 
 ⚡ Fun fact I Think i am Funny
 
