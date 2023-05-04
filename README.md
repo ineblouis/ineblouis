@@ -128,6 +128,9 @@
 
 <details>
  <summary><h2><img width="16" height="16" src="https://em-content.zobj.net/thumbs/120/apple/325/label_1f3f7-fe0f.png"/> Holopin Badges</h2></summary>
+  
+  <a href="#"><img alt="Visual Studio Code" src="https://i.ibb.co/qyf0G5V/Sans-titre.png"></a>
+
 </details>
   
 <p align="center" dir="auto">
