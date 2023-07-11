@@ -1,4 +1,4 @@
-<img align="right" width="400" src="https://lanyard.kyrie25.me/api/1070262933206077520?bg=6562AF&waveColor=F0D144&gradient=F69E44-F7BC44-F7D644">
+<img align="right" width="400" src="https://lanyard.kyrie25.me/api/1070262933206077520?bg=0D0C15&waveColor=6562AF&gradient=F69E44-F7BC44-F7D644">
 
 👯 I’m looking to collaborate on Cyber Security Projects
 
