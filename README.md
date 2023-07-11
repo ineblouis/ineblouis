@@ -1,8 +1,11 @@
 <img align="right" width="400" src="https://lanyard.kyrie25.me/api/1070262933206077520?bg=0D0C15&waveColor=6562AF&gradient=F69E44-F7BC44-F7D644">
 
 👯 Je cherche à collaborer sur des projets de cybersécurité.
+
 👨‍💻 Tous mes projets sont disponibles sur [mon site web](http://ineblouis.dev).
+
 📝 J'écris régulièrement des articles pour [dev.to](dev.to).
+
 💬 Posez-moi des questions sur la cybersécurité, le piratage éthique, la recherche de bugs.
 
 
