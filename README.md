@@ -1,11 +1,12 @@
 <img align="right" width="400" src="https://lanyard.kyrie25.me/api/1070262933206077520?bg=0D0C15&waveColor=6562AF&gradient=F69E44-F7BC44-F7D644">
 
-👯 I’m looking to collaborate on Cyber Security Projects
-👨‍💻 All of my projects are available at 
-📝 I regularly write articles on blog.codegrills.in
-💬 Ask me about Cyber Security,Ethical Hacking, Bug Hunting
-📫 How to reach me 
-⚡ Fun fact I Think i am Funny
+👯 I’m looking to collaborate on Cyber Security Projects<br>
+👨‍💻 All of my projects are available at<br>
+📝 I regularly write articles on blog.codegrills.in<br>
+💬 Ask me about Cyber Security,Ethical Hacking, Bug Hunting<br>
+📫 How to reach me<br>
+⚡ Fun fact I Think i am Funny<br>
+⚡ Fun fact I Think i am Funny<br>
 
 <details> 
 <summary><h2><img width="32" height="32" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2459330/bcebe3452aef24317bfb5b8894e2b759ebf9b9b4.png"/> Mes outils préférés</h2></summary>
